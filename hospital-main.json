@@ -1,0 +1,182 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118.341364, 32.281329]
+            },
+            "properties": {
+                "phoneFormatted": "(202) 234-7336",
+                "phone": "2022347336",
+                "address": "滁州市中西医结合医院",
+                "city": "滁州",
+                "country": "中国",
+                "location":"滁州市琅琊区会峰东路788号",
+                "crossStreet": "at 15th St NW",
+                "postalCode": "20005",
+                "state": "安徽."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118.368447, 32.312832]
+            },
+            "properties": {
+                "phoneFormatted": "(202) 507-8357",
+                "phone": "2025078357",
+                "address": "滁州市第二人民医院",
+                "city": "滁州",
+                "country": "中国",
+                "location":"安徽滁州市琅琊区城北新区清流中路1401号滁州市一院新分院",
+                "crossStreet": "at 22nd St NW",
+                "postalCode": "20037",
+                "state": "安徽."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118.308295, 32.320691]
+            },
+            "properties": {
+                "phoneFormatted": "(202) 387-9338",
+                "phone": "2023879338",
+                "address": "滁州市第一人民医院北区-鼓楼医院",
+                "city": "滁州",
+                "country": "中国",
+                "location":"安徽省滁州市琅琊区鼓楼街道忠佑巷12号",
+                "crossStreet": "at Dupont Circle",
+                "postalCode": "20036",
+                "state": "安徽."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118.322435, 32.248687]
+            },
+            "properties": {
+                "phoneFormatted": "(202) 337-9338",
+                "phone": "2023379338",
+                "address": "名儒医院",
+                "city": "滁州",
+                "country": "中国",
+                "location":"安徽省滁州市南谯区全椒南路728号21栋",
+                "crossStreet": "at 34th St NW",
+                "postalCode": "20007",
+                "state": "安徽."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118.43636, 32.207868]
+            },
+            "properties": {
+                "phoneFormatted": "(202) 547-9338",
+                "phone": "2025479338",
+                "address": "滁州市乌衣人民医院",
+                "city": "滁州",
+                "country": "中国",
+                "location":"滁州市南谯区滁宁中路553号",
+                "crossStreet": "btwn 2nd & 3rd Sts. SE",
+                "postalCode": "20003",
+                "state": "安徽."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118.418274, 32.211944]
+            },
+            "properties": {
+                "phoneFormatted": "(202) 234-7336",
+                "address": "滁州市第五人民医院",
+                "city": "滁州",
+                "country": "中国",
+                "location":"滁州市南谯区双迎路银润明珠城东北侧约150米",
+                "postalCode": "20740",
+                "state": "安徽"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118.323424, 32.277578]
+            },
+            "properties": {
+                "phoneFormatted": "(301) 654-7336",
+                "phone": "3016547336",
+                "address": "滁州市南谯区仁济中医院",
+                "cc": "US",
+                "city": "滁州",
+                "country": "中国",
+                "location":"安徽省滁州市南谯区丰乐大道长江商贸城1",
+                "postalCode": "20814",
+                "state": "安徽"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118.32856, 32.311098]
+            },
+            "properties": {
+                "phoneFormatted": "(571) 203-0082",
+                "phone": "5712030082",
+                "address": "滁州市妇幼保健计划生育服务中心",
+                "city": "滁州",
+                "country": "中国",
+                "location":"安徽省滁州市琅琊区琅琊东路296号",
+                "crossStreet": "btw Explorer & Library",
+                "postalCode": "20190",
+                "state": "安徽"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118.323424, 32.277578]
+            },
+            "properties": {
+                "phoneFormatted": "(703) 522-2016",
+                "phone": "7035222016",
+                "address": "滁州市南谯区仁济中医院",
+                "city": "滁州",
+                "country": "中国",
+                "location":"安徽省滁州市南谯区丰乐大道长江商贸城1",
+                "crossStreet": "at N Randolph St.",
+                "postalCode": "22203",
+                "state": "安徽"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118.335946, 32.309404]
+            },
+            "properties": {
+                "phoneFormatted": "(610) 642-9400",
+                "phone": "6106429400",
+                "address": "南谯区妇幼保健所",
+                "city": "滁州",
+                "country": "中国",
+                "location":"安徽省滁州市琅琊区来安路192号",
+                "postalCode": "19003",
+                "state": "安徽"
+            }
+        }
+        
+    ]
+}
